@@ -34,5 +34,6 @@ if __name__ == "__main__":
     mycomments = get_comments()
     print("Retrieved comments from your Account!")
     replace_delete_comments(mycomments)
+    print("Finished wiping your reddit comments!")
 
 
