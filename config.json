@@ -1,0 +1,9 @@
+{
+  "reddit": {
+    "clientid": "your reddit app client id",
+    "clientsecret": "your reddit app client secret",
+    "useragent": "your app user agent",
+    "username": "your username",
+    "password": "password for username"
+  }
+}
