@@ -1,5 +1,5 @@
 # RedditWiper
-Replaces your all of your reddit comments with a random string and then deletes them.
+Replaces your all of your reddit comments with a random string and then deletes them. Basically does the same as this greasy fork script: https://greasyfork.org/en/scripts/5550-reddit-secure-delete
 
 To use it adapt the config.json to your reddit api credentials and simply run it from console.
 Then sit back, relax and wait a few minutes until it's done.
